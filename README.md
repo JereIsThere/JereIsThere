@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-## My recent activity:
+### My recent activity:
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
